@@ -1,7 +1,6 @@
 package swing.lab01;
 
 import javax.swing.*;
-import java.util.Locale;
 
 public class MainForm {
     private JPanel mainPanel;
